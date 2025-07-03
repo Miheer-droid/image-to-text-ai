@@ -1,3 +1,12 @@
+---
+title: Image to Text AI
+emoji: 🖼️
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: main.py
+pinned: false
+---
 # 🖼️ Image to Text AI 📝
 
 This is a simple web application that uses Google's Gemini AI model to analyze images. It provides a detailed description, identifies potential real-world locations, and estimates the likelihood of the image being AI-generated.
